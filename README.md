@@ -15,6 +15,9 @@ Real time face detection and recognition for webcams
   
 # Usage
   1, Create a directory with the name "names". All face photos will be storaged here.
+  
   2, CD into the "names" directory, create directories with some department names. For example, "mkdir DP1", where "DP1" is the department where some personal photos will be found here.
+  
   3, CD into "DP1", and copy some face photos here. The file names for these photos shoud be the people's names.
-  4, Run the program to recognize.
+  
+  4, Run the program to detector and recognize faces.
