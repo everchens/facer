@@ -9,6 +9,6 @@ Real time face detection and recognition for webcams
   
   For MS-Windows, MKL is also needed.
   
-  The shape_predictor_5_face_landmarks.dat and dlib_face_recognition_resnet_model_v1.dat can be downloaded from the [dlib website](dlib.net).
+  The shape_predictor_5_face_landmarks.dat and dlib_face_recognition_resnet_model_v1.dat can be downloaded from the [dlib website](https://dlib.net).
   
   The optional libfacedetect library is from [here](https://github.com/ShiqiYu/libfacedetection).
