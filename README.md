@@ -2,7 +2,7 @@
 Real time face detection and recognition for webcams
 
 # Description
-  This program can detect and recognize all faces in the video stream of a webcam, then save the results in a sqlite3 database very fast.
+  This program can detect and recognize all faces in the video stream of a webcam, then save the results in a sqlite3 database.
 
 # Requirements
   cmake, dlib, opencv, sqlite3, ffmpeg
