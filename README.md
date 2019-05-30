@@ -14,7 +14,7 @@ Real time face detection and recognition for webcams
   The optional libfacedetect library is from [here](https://github.com/ShiqiYu/libfacedetection).
 
 # Compile
-  Need to be familiar with cmake. Modify the CMakelists.txt first, then cmake, cmake --build... 
+  Need to be familiar with cmake. Modify the CMakeLists.txt first, then cmake, cmake --build... 
   
 # Usage
   1, Create a directory with the name "names". All face photos will be storaged here.
