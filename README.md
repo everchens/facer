@@ -23,4 +23,4 @@ Real time face detection and recognition for webcams
   
   3, CD into "DP1", and copy-paste some face photos here. The file names for these photos shoud be the people's names.
   
-  4, Run the program to detector and recognize faces.
+  4, Run the program to detect and recognize faces.
