@@ -12,6 +12,9 @@ Real time face detection and recognition for webcams
   The shape_predictor_5_face_landmarks.dat and dlib_face_recognition_resnet_model_v1.dat can be downloaded from the [dlib website](http://dlib.net).
   
   The optional libfacedetect library is from [here](https://github.com/ShiqiYu/libfacedetection).
+
+# Compile
+  Need to be familiar with cmake. Modify the CMakelists.txt first, then cmake, cmake --build... 
   
 # Usage
   1, Create a directory with the name "names". All face photos will be storaged here.
